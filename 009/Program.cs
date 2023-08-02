@@ -1,10 +1,10 @@
-﻿int[] array = {1234, 1451, 14515, 253, 63, 11, 66534, 13, 5532, 6667, 33};
+﻿int[] array = { 1234, 1451, 14515, 253, 63, 11, 66534, 13, 5532, 6667, 33 };
 
 int n = array.Length;
-int find = 4;
+int find = 63;
 int index = 0;
 
-while(index<n>)
+while(index<n)
 {
     if (array[index]==find)
     {
